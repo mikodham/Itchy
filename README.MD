@@ -1,9 +1,9 @@
 #  Itchy
 ### CS482 Interative Computer Graphics  - Fall 2022 - KAIST
-- Jinhyeok Choi (최진혁)   [@cjh0507] (https://www.github.com/cjh0507)
+- Jinhyeok Choi (최진혁)   [@cjh0507](https://www.github.com/cjh0507)
 - Dhammiko Arya Gandamana  
-- Mathichai Dechdee  [@mdechdee] (https://www.github.com/mdechdee)
-- Elli Jacqueline Haehnel [@elli-hae] (https://www.github.com/elli-hae)
+- Mathichai Dechdee  [@mdechdee](https://www.github.com/mdechdee)
+- Elli Jacqueline Haehnel [@elli-hae](https://www.github.com/elli-hae)
 
 
 ### Development
